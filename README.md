@@ -1,2 +1,5 @@
 # Playwright
-For Playwright practice/testing
+For Playwright Automation practice and development
+
+Website used for playwright automation:
+- https://www.saucedemo.com
